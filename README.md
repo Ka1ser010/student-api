@@ -1,8 +1,7 @@
-# ACQUA_ENCANTO — Student Management REST API
+# Student Management REST API
 
-A REST API for managing student enrollment records at a swim school,
-built to solve a real need for ACQUA_ENCANTO and to serve as a backend
-portfolio project.
+A REST API for managing student enrollment records at a swimming school,
+created to meet a real need of the school and serve as a backend portfolio project.
 
 ## Stack (Phase 1)
 
